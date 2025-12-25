@@ -1,11 +1,11 @@
-# Air Quality Trend Analysis (1999-2019)
+# Air Quality Trend Analysis (1999-2023)
 
 ## Project Overview
-Time-series analysis of EPA air quality data across U.S. counties from 1999-2019. This academic project involved database design, SQL analysis, visualization, and stakeholder reporting. (could not include data file for 2019 because it is too big)
+Time-series analysis of EPA air quality data across U.S. counties from 1999-2023. This academic project involved database design, SQL analysis, visualization, and stakeholder reporting. (could not include data file for 2023 because it is too big)
 
 ## Project Requirements
 Analyze air quality data for Utah County by answering:
-1. Counties with worst decline (1999-2019)
+1. Counties with worst decline (1999-2023)
 2. Average AQI by year and season
 3. Top 10 worst locations each year
 4. Top 10 most improved locations
@@ -26,7 +26,7 @@ Analyze air quality data for Utah County by answering:
 ## Key Insights
 - Summer consistently worst season for air quality
 - Burke County, ND had largest AQI decline (+41.6)
-- Kentucky showed most improvement (1999-2019)
+- Kentucky showed most improvement (1999-2023)
 - Duchesne & Uintah counties experienced significant increases in unhealthy days
 
 ## Skills Demonstrated
