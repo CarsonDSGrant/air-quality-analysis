@@ -1,7 +1,7 @@
 # Air Quality Trend Analysis (1999-2019)
 
 ## Project Overview
-Time-series analysis of EPA air quality data across U.S. counties from 1999-2019. This academic project involved database design, SQL analysis, visualization, and stakeholder reporting.
+Time-series analysis of EPA air quality data across U.S. counties from 1999-2019. This academic project involved database design, SQL analysis, visualization, and stakeholder reporting. (could note include data file for 2019 because it is too big)
 
 ## Project Requirements
 Analyze air quality data for Utah County by answering:
